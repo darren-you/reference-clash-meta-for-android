@@ -1,0 +1,7 @@
+{
+  "upstream_repository": "https://github.com/MetaCubeX/ClashMetaForAndroid",
+  "upstream_commit": "94ebfd648abae76d32ae2191cfc413482d654c66",
+  "purpose": "工作区只读参考；移除 GitHub Actions 及其专属发布、生成和更新接线",
+  "source_owner": "darren-space",
+  "source_issue": "https://github.com/darren-you/darren-space/issues/64"
+}
